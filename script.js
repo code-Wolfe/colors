@@ -1,5 +1,14 @@
+
+let allCombinations = {
+    pairs: [],
+    trios: [],     
+    quads: []
+};
+let colorLookup = {};
+
+
 document.addEventListener('DOMContentLoaded', () => {
-    let colorLookup = {};
+    
 
     // Load colors
     fetch('colors.json')
@@ -15,6 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
         })
         .then(response => response.json())
         .then(data => {
+            allCombinations.pairs = data.colorPairs;
             const pairContainer = document.getElementById('pair-container');
             data.colorPairs.forEach((pairData, index) => {
                 const card = createPairCard(index + 1, pairData.pair, colorLookup);
@@ -24,6 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
         })
         .then(response => response.json())
         .then(data => {
+            allCombinations.trios = data.colorTrios;
             const trioContainer = document.getElementById('trio-container');
             data.colorTrios.forEach((trioData, index) => {
                 const card = createTrioCard(index + 1, trioData.trio, colorLookup);
@@ -33,6 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
         })
         .then(response => response.json())
         .then(data => {
+            allCombinations.quads = data.colorQuads;
             const quadContainer = document.getElementById('quad-container');
             data.colorQuads.forEach((quadData, index) => {
                 const card = createQuadCard(index + 1, quadData.quad, colorLookup);
@@ -40,6 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         })
         .catch(error => console.error('Error loading data:', error));
+
     // Tab functionality with persistence
     const tabs = document.querySelectorAll('.tabs a');
     const tabContents = document.querySelectorAll('.tab-content');
@@ -78,6 +91,20 @@ document.addEventListener('DOMContentLoaded', () => {
         const firstTabId = tabs[0].getAttribute('href').substring(1);
         setActiveTab(firstTabId);
     }
+
+    // Modal functionality
+    const modal = document.getElementById('combination-modal');
+    const closeBtn = document.getElementsByClassName('close')[0];
+
+    closeBtn.onclick = function() {
+        modal.style.display = "none";
+    }
+
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }
 });
 
 function createColorCard(color) {
@@ -103,17 +130,42 @@ function createColorCard(color) {
     card.appendChild(colorName);
     card.appendChild(colorInfo);
 
+    card.addEventListener('click', () => showCombinations(color.name));
+
+    return card;
+}
+
+function createColorCard(color) {
+    const card = document.createElement('div');
+    card.className = 'color-card';
+
+    const colorSample = document.createElement('div');
+    colorSample.className = 'color-sample';
+    colorSample.style.backgroundColor = color.hex;
+
+    const colorName = document.createElement('div');
+    colorName.className = 'color-name';
+    colorName.textContent = color.name;
+
+    const colorInfo = document.createElement('div');
+    colorInfo.className = 'color-info';
+    colorInfo.innerHTML = `
+        RGB: ${color.rgb}<br>
+        Hex: ${color.hex}
+    `;
+
+    card.appendChild(colorSample);
+    card.appendChild(colorName);
+    card.appendChild(colorInfo);
+
+    card.addEventListener('click', () => showCombinations(color.name));
+
     return card;
 }
 
 function createPairCard(index, colors, colorLookup) {
     const card = document.createElement('div');
     card.className = 'pair-card';
-
-    const pairName = document.createElement('div');
-    pairName.className = 'pair-name';
-    pairName.textContent = `Combination ${index}`;
-    card.appendChild(pairName);
 
     const pairContainer = document.createElement('div');
     pairContainer.className = 'pair-container';
@@ -152,11 +204,6 @@ function createTrioCard(index, colors, colorLookup) {
     const card = document.createElement('div');
     card.className = 'trio-card';
 
-    const trioName = document.createElement('div');
-    trioName.className = 'trio-name';
-    trioName.textContent = `Combination ${index}`;
-    card.appendChild(trioName);
-
     const trioContainer = document.createElement('div');
     trioContainer.className = 'trio-container';
 
@@ -194,10 +241,6 @@ function createQuadCard(index, colors, colorLookup) {
     const card = document.createElement('div');
     card.className = 'quad-card';
 
-    const quadName = document.createElement('div');
-    quadName.className = 'quad-name';
-    quadName.textContent = `Combination ${index}`;
-    card.appendChild(quadName);
 
     const quadContainer = document.createElement('div');
     quadContainer.className = 'quad-container';
@@ -232,3 +275,44 @@ function createQuadCard(index, colors, colorLookup) {
     return card;
 }
 
+function showCombinations(colorName) {
+    const modal = document.getElementById('combination-modal');
+    const modalTitle = document.getElementById('modal-title');
+    const modalCombinations = document.getElementById('modal-combinations');
+
+    modalTitle.textContent = `Combinations including ${colorName}`;
+    modalCombinations.innerHTML = '';
+
+    const pairs = allCombinations.pairs.filter(pair => pair.pair.includes(colorName));
+    const trios = allCombinations.trios.filter(trio => trio.trio.includes(colorName));
+    const quads = allCombinations.quads.filter(quad => quad.quad.includes(colorName));
+
+    if (pairs.length > 0) {
+        const pairsSection = document.createElement('div');
+        pairsSection.innerHTML = '<h3>Pairs</h3>';
+        pairs.forEach(pair => {
+            pairsSection.appendChild(createPairCard(null, pair.pair, colorLookup));
+        });
+        modalCombinations.appendChild(pairsSection);
+    }
+
+    if (trios.length > 0) {
+        const triosSection = document.createElement('div');
+        triosSection.innerHTML = '<h3>Trios</h3>';
+        trios.forEach(trio => {
+            triosSection.appendChild(createTrioCard(null, trio.trio, colorLookup));
+        });
+        modalCombinations.appendChild(triosSection);
+    }
+
+    if (quads.length > 0) {
+        const quadsSection = document.createElement('div');
+        quadsSection.innerHTML = '<h3>Quads</h3>';
+        quads.forEach(quad => {
+            quadsSection.appendChild(createQuadCard(null, quad.quad, colorLookup));
+        });
+        modalCombinations.appendChild(quadsSection);
+    }
+
+    modal.style.display = "block";
+}

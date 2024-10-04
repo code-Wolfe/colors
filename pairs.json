@@ -1,0 +1,724 @@
+{
+    "colorPairs": [
+        {
+            "pair": [
+                "English Red",
+                "Cerulian Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Dark Tyrian Blue",
+                "Yellow Orange"
+            ]
+        },
+        {
+            "pair": [
+                "Pale Lemon Yellow",
+                "Raw Sienna"
+            ]
+        },
+        {
+            "pair": [
+                "Red Violet",
+                "Isabella Color"
+            ]
+        },
+        {
+            "pair": [
+                "Cossack Green",
+                "Vandar Poel's Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Deep Indigo",
+                "Grenadine Pink"
+            ]
+        },
+        {
+            "pair": [
+                "Glaucous Green",
+                "Orange"
+            ]
+        },
+        {
+            "pair": [
+                "Cinnamon Rufous",
+                "Grayish Lavender - A"
+            ]
+        },
+        {
+            "pair": [
+                "Dull Blue Violet",
+                "Violet Red"
+            ]
+        },
+        {
+            "pair": [
+                "Dark Citrine",
+                "Cinnamon Rufous"
+            ]
+        },
+        {
+            "pair": [
+                "Mineral Gray",
+                "Ivory Buff"
+            ]
+        },
+        {
+            "pair": [
+                "Green Blue",
+                "Isabella Color"
+            ]
+        },
+        {
+            "pair": [
+                "Raw Sienna",
+                "Veronia Purple"
+            ]
+        },
+        {
+            "pair": [
+                "Naples Yellow",
+                "Spinel Red"
+            ]
+        },
+        {
+            "pair": [
+                "Grayish Lavender - A",
+                "Benzol Green"
+            ]
+        },
+        {
+            "pair": [
+                "Pale King's Blue",
+                "Vandyke Red"
+            ]
+        },
+        {
+            "pair": [
+                "Eugenia Red | A",
+                "Sea Green"
+            ]
+        },
+        {
+            "pair": [
+                "Night Green",
+                "Mars Brown / Tobacco"
+            ]
+        },
+        {
+            "pair": [
+                "Dusky Madder Violet",
+                "Fawn"
+            ]
+        },
+        {
+            "pair": [
+                "Laelia Pink",
+                "Calamine Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Grenadine Pink",
+                "Sea Green"
+            ]
+        },
+        {
+            "pair": [
+                "Deep Lyons Blue",
+                "Yellow"
+            ]
+        },
+        {
+            "pair": [
+                "Light Mauve",
+                "Cinnamon Buff"
+            ]
+        },
+        {
+            "pair": [
+                "Veronia Purple",
+                "Sepia"
+            ]
+        },
+        {
+            "pair": [
+                "Etruscan Red",
+                "Nile Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Corinthian Pink",
+                "Slate Color"
+            ]
+        },
+        {
+            "pair": [
+                "Pale Raw Umber",
+                "Golden Yellow"
+            ]
+        },
+        {
+            "pair": [
+                "Deep Indigo",
+                "Madder Brown"
+            ]
+        },
+        {
+            "pair": [
+                "Salvia Blue",
+                "Kronbergs Green"
+            ]
+        },
+        {
+            "pair": [
+                "Pale Lemon Yellow",
+                "Red Orange"
+            ]
+        },
+        {
+            "pair": [
+                "Night Green",
+                "Ochraceous Salmon"
+            ]
+        },
+        {
+            "pair": [
+                "Raw Sienna",
+                "Slate Color"
+            ]
+        },
+        {
+            "pair": [
+                "Eosine Pink",
+                "Neutral Gray"
+            ]
+        },
+        {
+            "pair": [
+                "Carmine Red",
+                "Light Brown Drab"
+            ]
+        },
+        {
+            "pair": [
+                "Sulphine Yellow",
+                "Turquoise Green"
+            ]
+        },
+        {
+            "pair": [
+                "Red Violet",
+                "Brick Red"
+            ]
+        },
+        {
+            "pair": [
+                "Diamine Green",
+                "Deep Lyons Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Carmine",
+                "Helvetia Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Vinaceous Tawny",
+                "Citron Yellow"
+            ]
+        },
+        {
+            "pair": [
+                "Dark Citrine",
+                "Calamine Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Violet",
+                "Yellow Ocher"
+            ]
+        },
+        {
+            "pair": [
+                "Aconite Violet",
+                "Corinthian Pink"
+            ]
+        },
+        {
+            "pair": [
+                "Olympic Blue",
+                "Light Porcelain Green"
+            ]
+        },
+        {
+            "pair": [
+                "Seashell Pink",
+                "Lemon Yellow"
+            ]
+        },
+        {
+            "pair": [
+                "Grayish Lavender - A",
+                "Etruscan Red"
+            ]
+        },
+        {
+            "pair": [
+                "Rosolanc Purple",
+                "Helvetia Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Pale King's Blue",
+                "Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Dusky Madder Violet",
+                "Ivory Buff"
+            ]
+        },
+        {
+            "pair": [
+                "Blue",
+                "Carmine Red"
+            ]
+        },
+        {
+            "pair": [
+                "Orange",
+                "Black"
+            ]
+        },
+        {
+            "pair": [
+                "Black",
+                "Sulphur Yellow"
+            ]
+        },
+        {
+            "pair": [
+                "Yellow Orange",
+                "Dusky Madder Violet"
+            ]
+        },
+        {
+            "pair": [
+                "Benzol Green",
+                "Light Glaucous Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Old Rose",
+                "White"
+            ]
+        },
+        {
+            "pair": [
+                "Grayish Lavender - A",
+                "Violet"
+            ]
+        },
+        {
+            "pair": [
+                "Taupe Brown",
+                "Slate Color"
+            ]
+        },
+        {
+            "pair": [
+                "Citrine",
+                "Eosine Pink"
+            ]
+        },
+        {
+            "pair": [
+                "Dark Tyrian Blue",
+                "Pale Lemon Yellow"
+            ]
+        },
+        {
+            "pair": [
+                "Sea Green",
+                "Hay's Russet"
+            ]
+        },
+        {
+            "pair": [
+                "Cotinga Purple",
+                "Light Green Yellow"
+            ]
+        },
+        {
+            "pair": [
+                "Vistoris Lake",
+                "Cerulian Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Aconite Violet",
+                "Dark Soft Violet"
+            ]
+        },
+        {
+            "pair": [
+                "Sulphine Yellow",
+                "Calamine Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Olive Green",
+                "Olive Ocher"
+            ]
+        },
+        {
+            "pair": [
+                "Dark Tyrian Blue",
+                "Olympic Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Yellow",
+                "Light Brown Drab"
+            ]
+        },
+        {
+            "pair": [
+                "Black",
+                "Warm Gray"
+            ]
+        },
+        {
+            "pair": [
+                "Ochraceous Salmon",
+                "Pompeian Red"
+            ]
+        },
+        {
+            "pair": [
+                "Lincoln Green",
+                "Raw Sienna"
+            ]
+        },
+        {
+            "pair": [
+                "Pale King's Blue",
+                "Sulphur Yellow"
+            ]
+        },
+        {
+            "pair": [
+                "Rainette Green",
+                "Pale Raw Umber"
+            ]
+        },
+        {
+            "pair": [
+                "Pale King's Blue",
+                "Violet Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Green Blue",
+                "Turquoise Green"
+            ]
+        },
+        {
+            "pair": [
+                "Pale King's Blue",
+                "Violet Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Pale Lemon Yellow",
+                "Violet Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Pale Lemon Yellow",
+                "Warm Gray"
+            ]
+        },
+        {
+            "pair": [
+                "Eugenia Red | A",
+                "Vandar Poel's Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Venice Green",
+                "Pinkish Cinnamon"
+            ]
+        },
+        {
+            "pair": [
+                "Green Blue",
+                "Madder Brown"
+            ]
+        },
+        {
+            "pair": [
+                "Sulphur Yellow",
+                "Light Mauve"
+            ]
+        },
+        {
+            "pair": [
+                "Golden Yellow",
+                "Warm Gray"
+            ]
+        },
+        {
+            "pair": [
+                "Violet Blue",
+                "Olive Buff"
+            ]
+        },
+        {
+            "pair": [
+                "Seashell Pink",
+                "Deep Slate Green"
+            ]
+        },
+        {
+            "pair": [
+                "Hay's Russet",
+                "Dusky Madder Violet"
+            ]
+        },
+        {
+            "pair": [
+                "Antwarp Blue",
+                "Vinaceous Tawny"
+            ]
+        },
+        {
+            "pair": [
+                "Raw Sienna",
+                "Sea Green"
+            ]
+        },
+        {
+            "pair": [
+                "Citron Yellow",
+                "Corinthian Pink"
+            ]
+        },
+        {
+            "pair": [
+                "Blue",
+                "Seashell Pink"
+            ]
+        },
+        {
+            "pair": [
+                "Yellow Orange",
+                "Violet Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Aconite Violet",
+                "Eosine Pink"
+            ]
+        },
+        {
+            "pair": [
+                "Vistoris Lake",
+                "Orange Rufous"
+            ]
+        },
+        {
+            "pair": [
+                "Coral Red",
+                "Benzol Green"
+            ]
+        },
+        {
+            "pair": [
+                "Light Glaucous Blue",
+                "Citrine"
+            ]
+        },
+        {
+            "pair": [
+                "Dusky Green",
+                "Ivory Buff"
+            ]
+        },
+        {
+            "pair": [
+                "Hay's Russet",
+                "Dull Violet Black"
+            ]
+        },
+        {
+            "pair": [
+                "Olive",
+                "Yellow Ocher"
+            ]
+        },
+        {
+            "pair": [
+                "Corinthian Pink",
+                "Etruscan Red"
+            ]
+        },
+        {
+            "pair": [
+                "Madder Brown",
+                "Violet Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Pale Lemon Yellow",
+                "Cerulian Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Buffy Citrine",
+                "Dull Blue Violet"
+            ]
+        },
+        {
+            "pair": [
+                "Deep Lyons Blue",
+                "Cameo Pink"
+            ]
+        },
+        {
+            "pair": [
+                "Ivory Buff",
+                "Orange Rufous"
+            ]
+        },
+        {
+            "pair": [
+                "Dusky Madder Violet",
+                "Cinnamon Rufous"
+            ]
+        },
+        {
+            "pair": [
+                "Sulphur Yellow",
+                "Carmine Red"
+            ]
+        },
+        {
+            "pair": [
+                "Cameo Pink",
+                "Chromium Green"
+            ]
+        },
+        {
+            "pair": [
+                "Dull Violet Black",
+                "Antwarp Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Light Grayish Olive",
+                "Apricot Yellow"
+            ]
+        },
+        {
+            "pair": [
+                "Eosine Pink",
+                "Brick Red"
+            ]
+        },
+        {
+            "pair": [
+                "Pale Lemon Yellow",
+                "Blackish Olive"
+            ]
+        },
+        {
+            "pair": [
+                "Brown",
+                "Vandyke Brown"
+            ]
+        },
+        {
+            "pair": [
+                "Pale Lemon Yellow",
+                "Yellow Green"
+            ]
+        },
+        {
+            "pair": [
+                "Black",
+                "Grenadine Pink"
+            ]
+        },
+        {
+            "pair": [
+                "Seashell Pink",
+                "Vandyke Brown"
+            ]
+        },
+        {
+            "pair": [
+                "Antwarp Blue",
+                "Orange Yellow"
+            ]
+        },
+        {
+            "pair": [
+                "Naples Yellow",
+                "Peach Red"
+            ]
+        },
+        {
+            "pair": [
+                "Blue Violet",
+                "Cameo Pink"
+            ]
+        },
+        {
+            "pair": [
+                "Carmine",
+                "Black"
+            ]
+        },
+        {
+            "pair": [
+                "Vandyke Brown",
+                "Yellow Ocher"
+            ]
+        },
+        {
+            "pair": [
+                "Dark Tyrian Blue",
+                "Light Glaucous Blue"
+            ]
+        },
+        {
+            "pair": [
+                "Cameo Pink",
+                "Pompeian Red"
+            ]
+        }
+    ]
+}
