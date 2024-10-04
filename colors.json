@@ -1053,8 +1053,8 @@
      },
      {  
         "index":39,
-        "name":"Sulpher Yellow",
-        "slug":"sulpher-yellow",
+        "name":"Sulphur Yellow",
+        "slug":"sulphur-yellow",
         "cmyk_array":[  
            4,
            4,
@@ -2118,8 +2118,8 @@
      },
      {  
         "index":75,
-        "name":"Krongbergs Green",
-        "slug":"krongbergs-green",
+        "name":"Kronbergs Green",
+        "slug":"kronbergs-green",
         "cmyk_array":[  
            48,
            35,
@@ -3189,7 +3189,7 @@
      },
      {  
         "index":114,
-        "name":"Calamine BLue",
+        "name":"Calamine Blue",
         "slug":"calamine-blue",
         "cmyk_array":[  
            50,
@@ -4459,6 +4459,45 @@
            344
         ],
         "use_count":23
-     }
+     },
+     {  
+        "index":158,
+        "name":"Citrine",
+        "slug":"Citrine",
+        "cmyk_array":[  
+           36,
+           32,
+           100,
+           7
+        ],
+        "cmyk":"C:36 / M:32 / Y:100 / K:7",
+        "rgb_array":[  
+           152,
+           161,
+           0
+        ],
+        "rgb":"R:152 / G:161 / B:0",
+        "hex":"#97A100"
+     },
+     {  
+      "index":97,
+      "name":"Chromium Green",
+      "slug":"chromium-green",
+      "cmyk_array":[  
+         50,
+         16,
+         58,
+         20
+      ],
+      "cmyk":"C:50 / M:16 / Y:58 / K:20",
+      "rgb_array":[  
+         102,
+         171,
+         86
+      ],
+      "rgb":"R:102 / G:171 / B:86",
+      "hex":"#66AB56"
+
+   }
   ]
 }

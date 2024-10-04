@@ -3,17 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Color Cards</title>
+    <title>Color Combination Website</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
     <header>
-        <h1> Colors </h1>
+        <h1>Color and Combination Information</h1>
     </header>
-    <main id = "color-container">
-        
+
+    <nav>
+        <ul class="tabs">
+            <li><a href="#colors">Colors</a></li>
+            <li><a href="#pairs">Pairs</a></li>
+            <li><a href="#trios">Trios</a></li>
+            <li><a href="#quads">Quads</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="colors" class="tab-content">
+            <div id="color-container"></div>
+        </section>
+
+        <section id="pairs" class="tab-content">
+            <div id="pair-container"></div>
+        </section>
+
+        <section id="trios" class="tab-content">
+            <div id="trio-container"></div>
+        </section>
+
+        <section id="quads" class="tab-content">
+            <div id="quad-container"></div>
+        </section>
     </main>
 
-    <script src = "script.js"></script>
+    <script src="script.js"></script>
 </body>
+</html>
