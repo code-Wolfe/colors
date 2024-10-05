@@ -573,8 +573,8 @@
      },
      {  
         "index":21,
-        "name":"Ochre Red",
-        "slug":"ochre-red",
+        "name":"Ocher Red",
+        "slug":"ocher-red",
         "cmyk_array":[  
            18,
            73,
@@ -703,8 +703,8 @@
      },
      {  
         "index":26,
-        "name":"Pomegranite Purple",
-        "slug":"pomegranite-purple",
+        "name":"Pomegranate Purple",
+        "slug":"pomegranate-purple",
         "cmyk_array":[  
            23,
            100,
@@ -4048,8 +4048,8 @@
      },
      {  
         "index":144,
-        "name":"Veronia Purple",
-        "slug":"veronia-purple",
+        "name":"Vernonia Purple",
+        "slug":"vernonia-purple",
         "cmyk_array":[  
            42,
            78,

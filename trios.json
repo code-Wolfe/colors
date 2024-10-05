@@ -16,6 +16,860 @@
         },
         {
             "trio": [
+                "Coral Red",
+                "Taupe Brown",
+                "Lemon Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Olive Yellow",
+                "Yellow Ocher",
+                "Pale Burnt Lake"
+            ]
+        },
+        {
+            "trio": [
+                "Cerulian Blue",
+                "Fawn",
+                "Violet Blue"
+            ]
+        },
+        {
+            "trio": [
+                "Yellow Ocher",
+                "Deep Lyons Blue",
+                "Ivory Buff"
+            ]
+        },
+        {
+            "trio": [
+                "Cinnamon Buff",
+                "Pistachio Green",
+                "Dark Soft Violet"
+            ]
+        },
+        {
+            "trio": [
+                "Venice Green",
+                "Light Mauve",
+                "Corinthian Pink"
+            ]
+        },
+        {
+            "trio": [
+                "Khaki",
+                "Salvia Blue",
+                "Apricot Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Carmine Red",
+                "Violet",
+                "Raw Sienna"
+            ]
+        },
+        {
+            "trio": [
+                "English Red",
+                "Peacock Blue",
+                "Raw Sienna"
+            ]
+        },
+        {
+            "trio": [
+                "Citrine",
+                "Golden Yellow",
+                "Sulphur Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Sea Green",
+                "Vandyke Red",
+                "Citrine"
+            ]
+        },
+        {
+            "trio": [
+                "Eosine Pink",
+                "Light Mauve",
+                "Red Violet"
+            ]
+        },
+        {
+            "trio": [
+                "Salvia Blue",
+                "Sulphur Yellow",
+                "Cossack Green"
+            ]
+        },
+        {
+            "trio": [
+                "Red Violet",
+                "Scarlet",
+                "Dull Viridian Green"
+            ]
+        },
+        {
+            "trio": [
+                "Etruscan Red",
+                "Pistachio Green",
+                "Cinnamon Buff"
+            ]
+        },
+        {
+            "trio": [
+                "Golden Yellow",
+                "Venice Green",
+                "Lemon Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Neutral Gray",
+                "Deep Indigo",
+                "Salvia Blue"
+            ]
+        },
+        {
+            "trio": [
+                "Golden Yellow",
+                "Slate Color",
+                "Antwarp Blue"
+            ]
+        },
+        {
+            "trio": [
+                "Orange",
+                "Dark Tyrian Blue",
+                "Yellow Green"
+            ]
+        },
+        {
+            "trio": [
+                "Hydrangea Red",
+                "Salvia Blue",
+                "Sulphine Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Warm Gray",
+                "Blue",
+                "Lilac"
+            ]
+        },
+        {
+            "trio": [
+                "Orange",
+                "Black",
+                "Rosolanc Purple"
+            ]
+        },
+        {
+            "trio": [
+                "Dull Violet Black",
+                "Brown",
+                "Citron Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Khaki",
+                "Diamine Green",
+                "Deep Grayish Olive"
+            ]
+        },
+        {
+            "trio": [
+                "Turquoise Green",
+                "Vandyke Red",
+                "Spinel Red"
+            ]
+        },
+        {
+            "trio": [
+                "Orange Yellow",
+                "Cerulian Blue",
+                "Olive Ocher"
+            ]
+        },
+        {
+            "trio": [
+                "Deep Slate Green",
+                "Orange",
+                "Olive Ocher"
+            ]
+        },
+        {
+            "trio": [
+                "Seashell Pink",
+                "Citron Yellow",
+                "Glaucous Green"
+            ]
+        },
+        {
+            "trio": [
+                "Yellow Orange",
+                "Vandar Poel's Blue",
+                "Sulphur Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Etruscan Red",
+                "Light Glaucous Blue",
+                "Hay's Russet"
+            ]
+        },
+        {
+            "trio": [
+                "Eosine Pink",
+                "Orange Yellow",
+                "Citron Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Carmine",
+                "Yellow",
+                "Blue"
+            ]
+        },
+        {
+            "trio": [
+                "Benzol Green",
+                "Jasper Red",
+                "Deep Indigo"
+            ]
+        },
+        {
+            "trio": [
+                "Violet",
+                "Olive Ocher",
+                "Cobalt Green"
+            ]
+        },
+        {
+            "trio": [
+                "Pansy Purple",
+                "Olive Ocher",
+                "Olympic Blue"
+            ]
+        },
+        {
+            "trio": [
+                "Cinnamon Rufous",
+                "Night Green",
+                "Lemon Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Calamine Blue",
+                "Khaki",
+                "Grayish Lavender - A"
+            ]
+        },
+        {
+            "trio": [
+                "Dark Medici Blue",
+                "Pale Raw Umber",
+                "Sulphine Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Pinkish Cinnamon",
+                "Helvetia Blue",
+                "Brown"
+            ]
+        },
+        {
+            "trio": [
+                "Turquoise Green",
+                "Antwarp Blue",
+                "Apricot Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Orange Yellow",
+                "Violet",
+                "Red Orange"
+            ]
+        },
+        {
+            "trio": [
+                "Rainette Green",
+                "Old Rose",
+                "Lilac"
+            ]
+        },
+        {
+            "trio": [
+                "Vistoris Lake",
+                "Spinel Red",
+                "Cameo Pink"
+            ]
+        },
+        {
+            "trio": [
+                "Grenadine Pink",
+                "Naples Yellow",
+                "Deep Slate Green"
+            ]
+        },
+        {
+            "trio": [
+                "Pale King's Blue",
+                "Ecru",
+                "Vandar Poel's Blue"
+            ]
+        },
+        {
+            "trio": [
+                "Vandar Poel's Blue",
+                "Lemon Yellow",
+                "Vernonia Purple"
+            ]
+        },
+        {
+            "trio": [
+                "Corinthian Pink",
+                "Warm Gray",
+                "Pale Lemon Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Rosolanc Purple",
+                "Orange Yellow",
+                "Red Violet"
+            ]
+        },
+        {
+            "trio": [
+                "Yellow Orange",
+                "Glaucous Green",
+                "Pale Burnt Lake"
+            ]
+        },
+        {
+            "trio": [
+                "Antwarp Blue",
+                "Red Violet",
+                "Cinnamon Rufous"
+            ]
+        },
+        {
+            "trio": [
+                "Lemon Yellow",
+                "Madder Brown",
+                "Turquoise Green"
+            ]
+        },
+        {
+            "trio": [
+                "Taupe Brown",
+                "Grayish Lavender - A",
+                "Corinthian Pink"
+            ]
+        },
+        {
+            "trio": [
+                "Olive Buff",
+                "Pinkish Cinnamon",
+                "Blue Violet"
+            ]
+        },
+        {
+            "trio": [
+                "Calamine Blue",
+                "Hermosa Pink",
+                "Seashell Pink"
+            ]
+        },
+        {
+            "trio": [
+                "Buffy Citrine",
+                "Pale Burnt Lake",
+                "Grayish Lavender - A"
+            ]
+        },
+        {
+            "trio": [
+                "Light Glaucous Blue",
+                "Ivory Buff",
+                "Green Blue"
+            ]
+        },
+        {
+            "trio": [
+                "Red Orange",
+                "Deep Lyons Blue",
+                "Golden Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Light Mauve",
+                "Neutral Gray",
+                "Cinnamon Buff"
+            ]
+        },
+        {
+            "trio": [
+                "Cotinga Purple",
+                "Violet",
+                "Carmine Red"
+            ]
+        },
+        {
+            "trio": [
+                "Vandyke Brown",
+                "Raw Sienna",
+                "Deep Indigo"
+            ]
+        },
+        {
+            "trio": [
+                "Vernonia Purple",
+                "Red Violet",
+                "Deep Violet / Plumbeous"
+            ]
+        },
+        {
+            "trio": [
+                "Light Grayish Olive",
+                "Ivory Buff",
+                "Spinel Red"
+            ]
+        },
+        {
+            "trio": [
+                "Pale Lemon Yellow",
+                "Light Brown Drab",
+                "Etruscan Red"
+            ]
+        },
+        {
+            "trio": [
+                "Hay's Russet",
+                "Blue",
+                "Ochraceous Salmon"
+            ]
+        },
+        {
+            "trio": [
+                "Grayish Lavender - A",
+                "Helvetia Blue",
+                "Aconite Violet"
+            ]
+        },
+        {
+            "trio": [
+                "Cobalt Green",
+                "Rainette Green",
+                "Salvia Blue"
+            ]
+        },
+        {
+            "trio": [
+                "Venice Green",
+                "Lemon Yellow",
+                "Deep Slate Green"
+            ]
+        },
+        {
+            "trio": [
+                "Black",
+                "English Red",
+                "Ivory Buff"
+            ]
+        },
+        {
+            "trio": [
+                "Blue",
+                "Light Brown Drab",
+                "Yellow Ocher"
+            ]
+        },
+        {
+            "trio": [
+                "Cream Yellow",
+                "Deep Violet / Plumbeous",
+                "Vandyke Brown"
+            ]
+        },
+        {
+            "trio": [
+                "Light Porcelain Green",
+                "Naples Yellow",
+                "Grenadine Pink"
+            ]
+        },
+        {
+            "trio": [
+                "Jasper Red",
+                "Olympic Blue",
+                "Seashell Pink"
+            ]
+        },
+        {
+            "trio": [
+                "Spinel Red",
+                "Pale Lemon Yellow",
+                "Neutral Gray"
+            ]
+        },
+        {
+            "trio": [
+                "Citron Yellow",
+                "Blue Violet",
+                "Pale King's Blue"
+            ]
+        },
+        {
+            "trio": [
+                "Dark Soft Violet",
+                "Eosine Pink",
+                "Neutral Gray"
+            ]
+        },
+        {
+            "trio": [
+                "Green",
+                "Apricot Yellow",
+                "Burnt Sienna"
+            ]
+        },
+        {
+            "trio": [
+                "Deep Lyons Blue",
+                "Ocher Red",
+                "Light Brownish Olive"
+            ]
+        },
+        {
+            "trio": [
+                "Olive Buff",
+                "Carmine Red",
+                "Chromium Green"
+            ]
+        },
+        {
+            "trio": [
+                "Olive",
+                "Grenadine Pink",
+                "Cobalt Green"
+            ]
+        },
+        {
+            "trio": [
+                "Cobalt Green",
+                "Slate Color",
+                "Turquoise Green"
+            ]
+        },
+        {
+            "trio": [
+                "Vinaceous Cinnamon",
+                "Lincoln Green",
+                "Pale Lemon Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Rosolanc Purple",
+                "Light Glaucous Blue",
+                "Cinnamon Rufous"
+            ]
+        },
+        {
+            "trio": [
+                "Vinaceous Cinnamon",
+                "Pale Burnt Lake",
+                "Violet"
+            ]
+        },
+        {
+            "trio": [
+                "Corinthian Pink",
+                "Cinnamon Rufous",
+                "Golden Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Black",
+                "Glaucous Green",
+                "Sudan Brown"
+            ]
+        },
+        {
+            "trio": [
+                "Green Blue",
+                "Sulphur Yellow",
+                "Antwarp Blue"
+            ]
+        },
+        {
+            "trio": [
+                "Yellow Orange",
+                "Salvia Blue",
+                "Ivory Buff"
+            ]
+        },
+        {
+            "trio": [
+                "Lemon Yellow",
+                "Lincoln Green",
+                "Cinnamon Buff"
+            ]
+        },
+        {
+            "trio": [
+                "Deep Indigo",
+                "Apricot Orange",
+                "Olive Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Orange Citrine",
+                "Salvia Blue",
+                "Pompeian Red"
+            ]
+        },
+        {
+            "trio": [
+                "Apricot Yellow",
+                "Pale King's Blue",
+                "Vinaceous Cinnamon"
+            ]
+        },
+        {
+            "trio": [
+                "Sudan Brown",
+                "Ivory Buff",
+                "Violet"
+            ]
+        },
+        {
+            "trio": [
+                "Eupatorium Purple",
+                "Cream Yellow",
+                "Blue"
+            ]
+        },
+        {
+            "trio": [
+                "Jasper Red",
+                "Black",
+                "Green"
+            ]
+        },
+        {
+            "trio": [
+                "Pale Burnt Lake",
+                "Ochraceous Salmon",
+                "Diamine Green"
+            ]
+        },
+        {
+            "trio": [
+                "Deep Violet / Plumbeous",
+                "Grayish Lavender - A",
+                "Helvetia Blue"
+            ]
+        },
+        {
+            "trio": [
+                "Jasper Red",
+                "Dusky Green",
+                "Chromium Green"
+            ]
+        },
+        {
+            "trio": [
+                "Aconite Violet",
+                "Pomegranate Purple",
+                "Ochraceous Salmon"
+            ]
+        },
+        {
+            "trio": [
+                "Black",
+                "Carmine Red",
+                "Neutral Gray"
+            ]
+        },
+        {
+            "trio": [
+                "Yellow Orange",
+                "Yellow Ocher",
+                "Orange Rufous"
+            ]
+        },
+        {
+            "trio": [
+                "Light Brown Drab",
+                "Ochraceous Salmon",
+                "Turquoise Green"
+            ]
+        },
+        {
+            "trio": [
+                "Dark Medici Blue",
+                "Spinel Red",
+                "Taupe Brown"
+            ]
+        },
+        {
+            "trio": [
+                "Dark Slate Purple",
+                "Dusky Green",
+                "Carmine"
+            ]
+        },
+        {
+            "trio": [
+                "Violet",
+                "Cream Yellow",
+                "Vistoris Lake"
+            ]
+        },
+        {
+            "trio": [
+                "Cerulian Blue",
+                "Light Glaucous Blue",
+                "Hermosa Pink"
+            ]
+        },
+        {
+            "trio": [
+                "Carmine Red",
+                "Neutral Gray",
+                "Pale Lemon Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Neutral Gray",
+                "Deep Slate Green",
+                "Golden Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Grenadine Pink",
+                "Turquoise Green",
+                "Cobalt Green"
+            ]
+        },
+        {
+            "trio": [
+                "Hay's Russet",
+                "Cameo Pink",
+                "Olympic Blue"
+            ]
+        },
+        {
+            "trio": [
+                "Deep Indigo",
+                "Carmine",
+                "Pinkish Cinnamon"
+            ]
+        },
+        {
+            "trio": [
+                "Violet Blue",
+                "Carmine Red",
+                "Buffy Citrine"
+            ]
+        },
+        {
+            "trio": [
+                "Pale King's Blue",
+                "Pale Raw Umber",
+                "Cinnamon Buff"
+            ]
+        },
+        {
+            "trio": [
+                "Yellow Orange",
+                "Ivory Buff",
+                "Grayish Lavender - A"
+            ]
+        },
+        {
+            "trio": [
+                "Purple Drab",
+                "Deep Lyons Blue",
+                "Khaki"
+            ]
+        },
+        {
+            "trio": [
+                "Carmine Red",
+                "Salvia Blue",
+                "Madder Brown"
+            ]
+        },
+        {
+            "trio": [
+                "Warm Gray",
+                "Cotinga Purple",
+                "Ochraceous Salmon"
+            ]
+        },
+        {
+            "trio": [
+                "Light Brown Drab",
+                "Glaucous Green",
+                "Pyrite Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "Fresh Color",
+                "Cerulian Blue",
+                "Yellow"
+            ]
+        },
+        {
+            "trio": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "trio": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "trio": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "trio": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "trio": [
                 "",
                 "",
                 ""
