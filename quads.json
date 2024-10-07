@@ -274,18 +274,594 @@
         }, 
         {
             "quad": [
-                "",
-                "",
-                "",
-                ""
+                "Etruscan Red",
+                "Ecru",
+                "Madder Brown",
+                "Taupe Brown"
             ]
         }, 
         {
             "quad": [
-                "",
-                "",
-                "",
-                ""
+                "Seashell Pink",
+                "Black",
+                "Eosine Pink",
+                "Yellow Green"
+            ]
+        }, 
+        {
+            "quad": [
+                "Spinel Red",
+                "Dull Violet Black",
+                "Olive",
+                "Rosolanc Purple"
+            ]
+        }, 
+        {
+            "quad": [
+                "Olive Ocher",
+                "Dusky Green",
+                "Cossack Green",
+                "Cream Yellow"
+            ]
+        }, 
+        {
+            "quad": [
+                "Raw Sienna",
+                "Dark Tyrian Blue",
+                "Vinaceous Cinnamon",
+                "Ecru"
+            ]
+        }, 
+        {
+            "quad": [
+                "Lincoln Green",
+                "Taupe Brown",
+                "Eugenia Red | A",
+                "Laelia Pink"
+            ]
+        }, 
+        {
+            "quad": [
+                "Antwarp Blue",
+                "Benzol Green",
+                "Pale Lemon Yellow",
+                "Cobalt Green"
+            ]
+        }, 
+        {
+            "quad": [
+                "Lilac",
+                "Maple",
+                "Cobalt Green",
+                "Eugenia Red | A"
+            ]
+        }, 
+        {
+            "quad": [
+                "Pale Burnt Lake",
+                "Chromium Green",
+                "Venice Green",
+                "Ocher Red"
+            ]
+        }, 
+        {
+            "quad": [
+                "Eugenia Red | A",
+                "Sea Green",
+                "Apricot Yellow",
+                "Dusky Green"
+            ]
+        }, 
+        {
+            "quad": [
+                "Light Brown Drab",
+                "Peach Red",
+                "Burnt Sienna",
+                "Turquoise Green"
+            ]
+        }, 
+        {
+            "quad": [
+                "Orange Yellow",
+                "Peacock Blue",
+                "Burnt Sienna",
+                "Violet Blue"
+            ]
+        }, 
+        {
+            "quad": [
+                "Pale King's Blue",
+                "Eosine Pink",
+                "Pyrite Yellow",
+                "Calamine Blue"
+            ]
+        }, 
+        {
+            "quad": [
+                "Yellow Orange",
+                "Taupe Brown",
+                "Sepia",
+                "Black"
+            ]
+        }, 
+        {
+            "quad": [
+                "Dull Violet Black",
+                "Lemon Yellow",
+                "Violet Blue",
+                "Light Green Yellow"
+            ]
+        }, 
+        {
+            "quad": [
+                "Lincoln Green",
+                "Vistoris Lake",
+                "Pale Lemon Yellow",
+                "Cobalt Green"
+            ]
+        }, 
+        {
+            "quad": [
+                "Calamine Blue",
+                "Cobalt Green",
+                "Sea Green",
+                "Light Green Yellow"
+            ]
+        }, 
+        {
+            "quad": [
+                "Pale Lemon Yellow",
+                "Ecru",
+                "Pinkish Cinnamon",
+                "Isabella Color"
+            ]
+        }, 
+        {
+            "quad": [
+                "Raw Sienna",
+                "Turquoise Green",
+                "Artemisia Green",
+                "Green"
+            ]
+        }, 
+        {
+            "quad": [
+                "Cossack Green",
+                "Cream Yellow",
+                "Salvia Blue",
+                "Sulphur Yellow"
+            ]
+        }, 
+        {
+            "quad": [
+                "Cream Yellow",
+                "Yellow",
+                "Dull Violet Black",
+                "Blue"
+            ]
+        }, 
+        {
+            "quad": [
+                "Pale Raw Umber",
+                "Ochraceous Salmon",
+                "Sulphur Yellow",
+                "Slate Color"
+            ]
+        }, 
+        {
+            "quad": [
+                "Burnt Sienna",
+                "Yellow Orange",
+                "Violet Blue",
+                "Olive Green"
+            ]
+        }, 
+        {
+            "quad": [
+                "Lemon Yellow",
+                "Peach Red",
+                "Raw Sienna",
+                "Black"
+            ]
+        }, 
+        {
+            "quad": [
+                "Oil Green",
+                "Vinaceous Cinnamon",
+                "Antwarp Blue",
+                "Indian Lake"
+            ]
+        }, 
+        {
+            "quad": [
+                "Calamine Blue",
+                "Cream Yellow",
+                "Grenadine Pink",
+                "Turquoise Green"
+            ]
+        }, 
+        {
+            "quad": [
+                "Spectrum Red",
+                "Ivory Buff",
+                "Aconite Violet",
+                "Rainette Green"
+            ]
+        }, 
+        {
+            "quad": [
+                "Cream Yellow",
+                "Ecru",
+                "Antwarp Blue",
+                "Nile Blue"
+            ]
+        }, 
+        {
+            "quad": [
+                "Naples Yellow",
+                "Peach Red",
+                "Neutral Gray",
+                "Deep Slate Olive"
+            ]
+        }, 
+        {
+            "quad": [
+                "Benzol Green",
+                "Cream Yellow",
+                "Dark Citrine",
+                "Hay's Russet"
+            ]
+        }, 
+        {
+            "quad": [
+                "Pinkish Cinnamon",
+                "Apricot Yellow",
+                "Turquoise Green",
+                "Citron Yellow"
+            ]
+        }, 
+        {
+            "quad": [
+                "Dull Viridian Green",
+                "Nile Blue",
+                "Benzol Green",
+                "Lemon Yellow"
+            ]
+        }, 
+        {
+            "quad": [
+                "Cotinga Purple",
+                "Grayish Lavender - A",
+                "Carmine",
+                "Aconite Violet"
+            ]
+        }, 
+        {
+            "quad": [
+                "English Red",
+                "Fawn",
+                "Cobalt Green",
+                "Scarlet"
+            ]
+        }, 
+        {
+            "quad": [
+                "Golden Yellow",
+                "Apricot Orange",
+                "Vandar Poel's Blue",
+                "Violet Blue"
+            ]
+        }, 
+        {
+            "quad": [
+                "Olive",
+                "Pinkish Cinnamon",
+                "Deep Slate Olive",
+                "Sulphur Yellow"
+            ]
+        }, 
+        {
+            "quad": [
+                "Pompeian Red",
+                "Dark Greenish Glaucous",
+                "Cream Yellow",
+                "Light Green Yellow"
+            ]
+        }, 
+        {
+            "quad": [
+                "Burnt Sienna",
+                "Artemisia Green",
+                "Helvetia Blue",
+                "Yellow Orange"
+            ]
+        }, 
+        {
+            "quad": [
+                "Carmine",
+                "Black",
+                "Diamine Green",
+                "Yellow"
+            ]
+        }, 
+        {
+            "quad": [
+                "Dusky Madder Violet",
+                "Deep Lyons Blue",
+                "Eosine Pink",
+                "Hay's Russet"
+            ]
+        }, 
+        {
+            "quad": [
+                "Golden Yellow",
+                "Eupatorium Purple",
+                "Sulphur Yellow",
+                "Grenadine Pink"
+            ]
+        }, 
+        {
+            "quad": [
+                "Red Violet",
+                "Vandyke Red",
+                "Dull Viridian Green",
+                "Violet"
+            ]
+        }, 
+        {
+            "quad": [
+                "Turquoise Green",
+                "Light Pinkish Cinnamon",
+                "Lemon Yellow",
+                "Ecru"
+            ]
+        }, 
+        {
+            "quad": [
+                "Light Brownish Olive",
+                "Deep Slate Green",
+                "Dusky Green",
+                "Blackish Olive"
+            ]
+        }, 
+        {
+            "quad": [
+                "Apricot Yellow",
+                "Yellow Orange",
+                "Raw Sienna",
+                "Cossack Green"
+            ]
+        }, 
+        {
+            "quad": [
+                "Oil Green",
+                "Coral Red",
+                "Light Glaucous Blue",
+                "Sulphur Yellow"
+            ]
+        }, 
+        {
+            "quad": [
+                "Sulphur Yellow",
+                "Salvia Blue",
+                "Light Brown Drab",
+                "Deep Slate Olive"
+            ]
+        }, 
+        {
+            "quad": [
+                "Blue Violet",
+                "Eupatorium Purple",
+                "Brick Red",
+                "Spectrum Red"
+            ]
+        }, 
+        {
+            "quad": [
+                "Cinnamon Buff",
+                "Citron Yellow",
+                "Black",
+                "Madder Brown"
+            ]
+        }, 
+        {
+            "quad": [
+                "Pompeian Red",
+                "Aconite Violet",
+                "Olympic Blue",
+                "Neutral Gray"
+            ]
+        }, 
+        {
+            "quad": [
+                "Deep Slate Green",
+                "Naples Yellow",
+                "Eugenia Red | A",
+                "Yellow Ocher"
+            ]
+        }, 
+        {
+            "quad": [
+                "Night Green",
+                "Sulphur Yellow",
+                "Peach Red",
+                "Yellow Green"
+            ]
+        }, 
+        {
+            "quad": [
+                "Ecru",
+                "Eosine Pink",
+                "Grayish Lavender - A",
+                "Raw Sienna"
+            ]
+        }, 
+        {
+            "quad": [
+                "Brick Red",
+                "Light Porcelain Green",
+                "Apricot Orange",
+                "Vandyke Brown"
+            ]
+        }, 
+        {
+            "quad": [
+                "Slate Color",
+                "Cream Yellow",
+                "Grayish Lavender - A",
+                "Cotinga Purple"
+            ]
+        }, 
+        {
+            "quad": [
+                "Nile Blue",
+                "Salvia Blue",
+                "Olive Buff",
+                "Green Blue"
+            ]
+        }, 
+        {
+            "quad": [
+                "Light Mauve",
+                "Violet",
+                "Indian Lake",
+                "Dull Violet Black"
+            ]
+        }, 
+        {
+            "quad": [
+                "Deep Slate Olive",
+                "Dusky Green",
+                "Coral Red",
+                "Scarlet"
+            ]
+        }, 
+        {
+            "quad": [
+                "Cobalt Green",
+                "Lemon Yellow",
+                "Burnt Sienna",
+                "Blue"
+            ]
+        }, 
+        {
+            "quad": [
+                "Olive",
+                "Antwarp Blue",
+                "Yellow Green",
+                "Seashell Pink"
+            ]
+        }, 
+        {
+            "quad": [
+                "Vandyke Brown",
+                "Slate Color",
+                "Yellow Orange",
+                "Violet"
+            ]
+        }, 
+        {
+            "quad": [
+                "Hay's Russet",
+                "Eosine Pink",
+                "Pale Lemon Yellow",
+                "Blackish Olive"
+            ]
+        }, 
+        {
+            "quad": [
+                "Vistoris Lake",
+                "Violet Carmine",
+                "Black",
+                "Laelia Pink"
+            ]
+        }, 
+        {
+            "quad": [
+                "Orange Yellow",
+                "Grayish Lavender - A",
+                "Dusky Green",
+                "Carmine Red"
+            ]
+        }, 
+        {
+            "quad": [
+                "English Red",
+                "Ochraceous Salmon",
+                "Violet Blue",
+                "Light Glaucous Blue"
+            ]
+        }, 
+        {
+            "quad": [
+                "Peach Red",
+                "Sea Green",
+                "Black",
+                "Neutral Gray"
+            ]
+        }, 
+        {
+            "quad": [
+                "Cossack Green",
+                "Light Glaucous Blue",
+                "Deep Slate Olive",
+                "Grenadine Pink"
+            ]
+        }, 
+        {
+            "quad": [
+                "Deep Slate Olive",
+                "Cream Yellow",
+                "Corinthian Pink",
+                "Orange Citrine"
+            ]
+        }, 
+        {
+            "quad": [
+                "Ivory Buff",
+                "Deep Grayish Olive",
+                "Vandar Poel's Blue",
+                "Burnt Sienna"
+            ]
+        }, 
+        {
+            "quad": [
+                "Aconite Violet",
+                "Cinnamon Buff",
+                "Black",
+                "Deep Lyons Blue"
+            ]
+        }, 
+        {
+            "quad": [
+                "Blue Violet",
+                "Hay's Russet",
+                "Nile Blue",
+                "Venice Green"
+            ]
+        }, 
+        {
+            "quad": [
+                "Light Green Yellow",
+                "Rosolanc Purple",
+                "Andover Green",
+                "Turquoise Green"
+            ]
+        }, 
+        {
+            "quad": [
+                "Sea Green",
+                "Helvetia Blue",
+                "Lilac",
+                "Olive Yellow"
+            ]
+        }, 
+        {
+            "quad": [
+                "Cotinga Purple",
+                "Cossack Green",
+                "Deep Slate Olive",
+                "Olive Buff"
             ]
         }
 
