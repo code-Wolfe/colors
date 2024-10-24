@@ -260,3 +260,234 @@ main {
         width: calc(100% - 1rem);
     }
 }
+
+/* Additional mobile responsiveness */
+@media (max-width: 768px) {
+    /* Base styles */
+    header {
+        padding: 0.75rem;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .tabs {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .tabs li {
+        padding: 0.5rem;
+    }
+
+    .tabs a {
+        display: block;
+        text-align: center;
+        padding: 0.75rem;
+    }
+
+    main {
+        padding: 1rem;
+    }
+
+    #color-container,
+    #pair-container,
+    #trio-container,
+    #quad-container {
+        gap: 0.5rem;
+    }
+
+    .color-card {
+        width: 100%;
+        min-width: unset;
+        margin-bottom: 1rem;
+    }
+
+    /* Duo layout - single row */
+    .pair-card {
+        width: 100%;
+        min-width: unset;
+        margin-bottom: 1rem;
+    }
+
+    .pair-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    .color-half {
+        flex: 1;
+        min-width: 0; /* Prevents flex items from overflowing */
+    }
+
+    /* Trio layout - single row */
+    .trio-card {
+        width: 100%;
+        min-width: unset;
+        margin-bottom: 1rem;
+    }
+
+    .trio-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    .color-third {
+        flex: 1;
+        min-width: 0; /* Prevents flex items from overflowing */
+    }
+
+    /* Quad layout - 2x2 grid */
+    .quad-card {
+        width: 100%;
+        min-width: unset;
+        margin-bottom: 1rem;
+    }
+
+    .quad-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, auto);
+        gap: 2px;
+    }
+
+    .color-quarter {
+        width: 100%;
+    }
+
+    /* Color sample heights */
+    .color-sample {
+        height: 80px;
+    }
+
+    .color-half .color-sample {
+        height: 100px;
+    }
+
+    .color-third .color-sample {
+        height: 100px;
+    }
+
+    .color-quarter .color-sample {
+        height: 70px;
+    }
+
+    /* Typography adjustments */
+    .color-name {
+        font-size: 0.85rem;
+        padding: 0.4rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .color-info {
+        font-size: 0.75rem;
+        padding: 0.4rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    /* Modal improvements */
+    .modal-content {
+        margin: 5% auto;
+        padding: 15px;
+        width: 95%;
+    }
+
+    #modal-combinations {
+        max-height: 75vh;
+    }
+
+    #modal-combinations .color-card,
+    #modal-combinations .pair-card,
+    #modal-combinations .trio-card,
+    #modal-combinations .quad-card {
+        margin-bottom: 0.5rem;
+    }
+
+    #modal-combinations .color-sample {
+        height: 50px;
+    }
+
+    /* Modal specific layouts */
+    #modal-combinations .pair-container,
+    #modal-combinations .trio-container {
+        flex-wrap: nowrap;
+    }
+
+    #modal-combinations .quad-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2px;
+    }
+
+    /* Touch improvements */
+    .close {
+        padding: 10px;
+        font-size: 24px;
+    }
+
+    .color-card:active,
+    .pair-card:active,
+    .trio-card:active,
+    .quad-card:active {
+        transform: scale(0.98);
+    }
+
+    body {
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .color-name,
+    .color-info {
+        user-select: none;
+        -webkit-user-select: none;
+    }
+}
+
+/* Extra small device optimization */
+@media (max-width: 320px) {
+    h1 {
+        font-size: 1.25rem;
+    }
+
+    .tabs a {
+        padding: 0.5rem;
+    }
+
+    main {
+        padding: 0.5rem;
+    }
+
+    .color-sample {
+        height: 60px;
+    }
+
+    .color-half .color-sample,
+    .color-third .color-sample {
+        height: 80px;
+    }
+
+    .color-quarter .color-sample {
+        height: 50px;
+    }
+
+    .color-name {
+        font-size: 0.75rem;
+        padding: 0.25rem;
+    }
+
+    .color-info {
+        font-size: 0.65rem;
+        padding: 0.25rem;
+    }
+
+    .modal-content {
+        padding: 10px;
+    }
+}
